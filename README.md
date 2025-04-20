@@ -6,8 +6,6 @@
 - [Project Overview](#-project-overview)
 - [Key Features](#-key-features)
 - [Technology Stack](#-technology-stack)
-- [Configuration](#-configuration)
-- [Database Schema](#-database-schema)
 - [Contributing](#-contributing)
 - [License](#-license)
 
@@ -89,7 +87,7 @@ This project is licensed under the **ASENASS DEVELOPERS Proprietary License**
 
 
 <div align="center">
-  <img src="![WhatsApp Image 2025-04-20 at 14 31 15_bbf6d632](https://github.com/user-attachments/assets/d63ac40a-1626-4afe-bc45-01e13a9580ae)
+  <img src="![assenas-logo](https://github.com/user-attachments/assets/f5e03548-4323-4451-a8c5-436dd6b775f3)
 " alt="ASENASS Logo">
   <p>© 2023 ASENASS DEVELOPERS. All rights reserved.</p>
 </div>
