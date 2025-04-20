@@ -86,7 +86,8 @@ This project is licensed under the **ASENASS DEVELOPERS Proprietary License**
 
 
 
-<div align="center">
+<div align="center">![assenas-logo](https://github.com/user-attachments/assets/11c15e54-bb37-4e19-8536-1de082dc6f4a)
+
   <img src="![assenas-logo](https://github.com/user-attachments/assets/f5e03548-4323-4451-a8c5-436dd6b775f3)
 " alt="ASENASS Logo">
   <p>© 2023 ASENASS DEVELOPERS. All rights reserved.</p>
